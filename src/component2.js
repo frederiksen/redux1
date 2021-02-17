@@ -5,7 +5,7 @@ class Component2 extends React.Component {
     render() {
         return (
             <div>
-                <h2>Component2</h2>
+                <h2>Component 2</h2>
                 <p>Text: {this.props.txt} </p>
             </div>
         );

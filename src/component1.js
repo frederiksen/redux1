@@ -10,7 +10,7 @@ class Component1 extends React.Component {
     render() {
         return (
             <div>
-                <h2>Component1</h2>
+                <h2>Component 1</h2>
                 <button onClick={this.cl}>Click</button>
             </div>
         );
